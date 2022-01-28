@@ -5,12 +5,12 @@ Kicad footprints and components.
 These are components we have designed for our own use, and to share with others at their own risk. They are not perfect and may have errors.
 
 
-We OFFER NO WARRANTY
+WE OFFER NO WARRANTY
 
-THEESE COMPONENT DEFINITIONS AND FOOTPRINTS ARE DISTRIBUTED IN THE HOPE THAT THEY WILL BE USEFUL, BUT WITHOUT ANY WARRANTY.
+These component definitions and footprints are distributed in the hope that they will be useful, but without any warranty.
 
-THEY ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+They are provided "as is" without warranty of any kind, either expressed or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose.
 
-THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE COMPONENTS DEFINITIONS AND FOOTPRINTS IS WITH YOU.
+The entire risk as to the quality and performance of the components definitions and footprints is with you.
 
-IN NO EVENT SEENOV WILL BE LIABLE TO YOU FOR DAMAGES, LOSSES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THESE COMPONENTS DEFINITIONS AND FOOTPRINTS.
+In no event seenov will be liable to you for damages, losses, including any general, special, incidental or consequential damages arising out of the use or inability to use these components definitions and footprints.
